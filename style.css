@@ -3,18 +3,18 @@ h1 {
 }
 
 button {
-    transition: 2s;
+  transition: 2s;
 }
 button:hover {
-    box-shadow: 0px 0px 100px darkslategray;
+  box-shadow: 0px 0px 100px darkslategray;
 }
 
 #response-img {
-height: 500px;
-width: 500px;
+  height: 500px;
+  width: 500px;
 }
 body {
-    background: url(imgs/cloud.jpg) no-repeat center center fixed;
-    background-size: cover;
-    height: 100%;
+  background: url(imgs/cloud.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
 }
