@@ -1,7 +1,5 @@
 h1 {
-    font-family: "doublebass", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+  font-size: 10vw;
 }
 
 button {
@@ -14,4 +12,9 @@ button:hover {
 #response-img {
 height: 500px;
 width: 500px;
+}
+body {
+    background: url(imgs/cloud.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
 }
