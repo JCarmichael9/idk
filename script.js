@@ -69,7 +69,7 @@ console.log(eightBall)
 
 
 userName ? document.getElementById('response-text').innerText= `${userName} has asked "${userQuestion}" to the most amazing, glorious, respectable, smart, bright, and handsome 8 ball. It's absolutely perfect, never wrong, always correct, never a lie, always a truth answer is, "${eightBall}".` 
- : document.getElementById('response-text').innerText= `Weirdo who won't tell me their name has asked "${userQuestion}" to the most amazing, glorious, respectable, smart, bright, and handsome 8 ball. It's absolutely perfect, never wrong, always correct, never a lie, always a truth answer is, "${eightBall}."` 
+ : document.getElementById('response-text').innerText= `Bum who won't tell me their name has asked "${userQuestion}" to the most amazing, glorious, respectable, smart, bright, and handsome 8 ball. It's absolutely perfect, never wrong, always correct, never a lie, always a truth answer is, "${eightBall}."` 
 
 responseImg.src = imageChoice
 }
